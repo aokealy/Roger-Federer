@@ -52,6 +52,12 @@ nav {
     font-size: 18px;
     text-decoration: none;
 }
+.nav-links a:hover {
+
+    border-bottom: 1px solid #EA4C46;
+}
+
+
 .presentation {
     display: flex;
     width: 90%;
@@ -181,5 +187,5 @@ nav {
 }
 .footer .social-links a:hover {
     opacity: 0.90;
-    color: #5f5f79;
+    color: #fd6767;
 }
