@@ -80,6 +80,23 @@ nav {
     margin-top: 5px;
     font-size: 19px;
 }
+.cover-main {
+   flex: 1;
+   margin-right: 25px;
+}
+.intro-text-main h1 {
+    font-size: 44px;
+    font-weight: 500;
+    background: linear-gradient(to right, #DC1C13,  #EA4C46);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.intro-text-main p {
+    
+    margin-top: 5px;
+    font-size: 19px;
+}
 .cta {
     padding: 50px 0 0 0;
 }
@@ -110,6 +127,17 @@ nav {
    
     
 }
+.cover-main {
+    flex: 1;
+    display: flex;
+    justify-content: left;
+    height: 60vh;
+}
+.cover-main img {
+    height: 100%;
+    border-radius: 25px;
+     filter: drop-shadow(0px 5px 3px black);
+}
 
 @keyframes drop {
     0%{
@@ -130,13 +158,13 @@ nav {
         margin-top: 5vh;
         text-align: center;
     }
-    .intro-text h1 {
+    .intro-text, .intro-text-main h1 {
         font-size: 25px;
     }
-    .intro-text p {
+    .intro-text, .intro-text-main p {
         font-size: 20px;
     }
-    .cover img {
+    .cover img, .cover-main img{
         height: 50vh;
     }
     .cta {
@@ -153,10 +181,10 @@ nav {
             margin-top: 5vh;
             text-align: center;
     }
-    .intro-text h1 {
+    .intro-text h1, .intro-text-main h1 {
         font-size: 15px;
  }
- .intro-text p {
+ .intro-text p, .intro-text-main p {
     font-size: 15px;
 }
 
