@@ -25,9 +25,12 @@ header {
 }
 
 .logo {
+
     font-weight: 400;
     margin: 5px;
 }
+
+
 
 nav {
 background: lightgreen;
@@ -43,4 +46,14 @@ flex: 2;
     color: #5f5f79;
     font-size: 18px;
     text-decoration: none;
+}
+.presentation {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    min-height: 80vh;
+    align-items: center;
+}
+.cover img {
+    height: 60vh;
 }
