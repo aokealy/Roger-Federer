@@ -24,13 +24,14 @@ header {
 
 .logo-container {
   flex: 1;
+  margin-top: 10px;
 }
 
 .logo {
 
     font-weight: 400;
     margin: 5px;
-   
+    
    
 }
 
@@ -151,4 +152,9 @@ nav {
  .intro-text p {
     font-size: 15px;
 }
+}
+
+.footer {
+    padding: 40px 0;
+    background-color: #DC1C13;
 }
