@@ -389,3 +389,11 @@ nav {
         letter-spacing: 1px;
         cursor: pointer;
     }
+    .show-btn {
+        text-align: center;
+        font-size: 100%;
+        margin-top: 10px;
+        font-weight: 500;
+        justify-content: center;
+        
+    }
