@@ -189,6 +189,7 @@ nav {
     font-size: 15px;
 }
 
+
 }
 
 .footer {
@@ -259,3 +260,35 @@ nav {
     padding: 5px 5px 5px 5px;
     border-radius: 15px;
 }
+@media only screen and (max-width:769px) {
+    .gallery-container .gallery-box {
+   
+        flex-direction: column;
+       
+        
+    }
+    .gallery-container .gallery-box .trophy {
+           width: 100%;
+    
+}
+}
+@media only screen and (max-width:766px) {
+    
+    .gallery-container .heading {
+        width: 100%;
+        
+       }
+       .gallery-container .heading h3 {
+           
+           font-size: 1em;
+          
+       }
+       .nav-links {
+      font-size: 10px;
+        
+       }
+        
+    }
+   
+
+
