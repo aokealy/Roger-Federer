@@ -71,6 +71,10 @@ This is the Website of Roger Federer.
       
       # Testing 
       - In this section I tested the code using <a href="https://validator.w3.org/nu/#textarea">WC3 Validator HTML</a>
+       <img src="./images/html-validator-READme-img.jpg" alt="Footer">
+     
+          
       - Also I tested the code using <a href="https://jigsaw.w3.org/css-validator/">WC3 Validator CSS</a>
          
-         <img src="./images/css-validator-READme-img.jpg" alt="Footer">
+         <img src="./images/css-validator-READme-img.jpg" alt="CSS Validator">
+
