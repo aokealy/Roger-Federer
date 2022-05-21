@@ -7,17 +7,6 @@ This is the Website of Roger Federer.
 
 ![alt text](./images/chrome_QTwBdTkGin.jpg)
 
-# Contents
-Contents Of the Page to help navigate to different areas of the Readme File.
-<br>
-<ul>
-  <li><a href="#">Navigation Bar</a></li>
-   <li>Home Page</li>
-    <li>Timeline Page</li>
-       <li>Gallery Page</li>
-        <li>Sign Up Form</li>
-          <li>Social Media</li>
-    </ul>
 
 # Features 
 <p>Roger Federer website is designed to be user friendly and pleasing to the eye so when you first look at the website you can see where everthing is. It is very miminalistic but effective in a way that doesn't over complicate things. It has features that everyone has used before such as a navigation bar and a form to sign up.  </p>
@@ -66,3 +55,22 @@ Contents Of the Page to help navigate to different areas of the Readme File.
          - There are 20 images in total and they are ordered from top to bottom to showcase each Grand Slam he won.
          - This gallery is great for people who want to see how sucessful he is and it is responsive and uniformed to fit the page.
           <img src="./images/gallery-READme-img.jpg" alt="Footer" width="60%" height="15%">
+
+
+        # Future Features
+        - A community Page where Federer fans can discuss about tennis or Federer.
+        - A video section that links to tributes of Federer career.
+
+        # Technology used:
+        - <a href="https://html.spec.whatwg.org/"> HTML5 for HTML </a>
+        - <a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS for styling </a>
+        - <a href="https://www.gitpod.io/">Gitpod to Deploy </a>
+        - <a href="https://github.com/">Github to host </a>
+        - <a href="https://fontawesome.com/">Font Awesome for Social Icons</a>
+        - <a href="https://fonts.google.com/">Google Fonts for the text</a>
+      
+      # Testing 
+      - In this section I tested the code using <a href="https://validator.w3.org/nu/#textarea">WC3 Validator HTML</a>
+      - Also I tested the code using <a href="https://jigsaw.w3.org/css-validator/">WC3 Validator CSS</a>
+         
+         <img src="./images/css-validator-READme-img.jpg" alt="Footer">

@@ -29,6 +29,8 @@ header {
   
 }
 .logo-container img {
+    width: 25%;
+    height: auto;
     flex: 1;
     margin-top: 10px;
     filter: drop-shadow(0px 5px 3px black);
@@ -267,6 +269,11 @@ nav {
     padding: 5px 5px 5px 5px;
     border-radius: 15px;
 }
+.trophy img {
+width: 70%;
+height: 70%;
+
+}
 @media only screen and (max-width:769px) {
     .gallery-container .gallery-box {
    
@@ -314,8 +321,7 @@ nav {
         position: absolute;
         top: 75%;
         left: 5%;
-        
-        transform: translate (-30%, -30%);
+       
     }
     input[type="checkbox"] {
         display: none;
