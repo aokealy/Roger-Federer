@@ -32,8 +32,22 @@ Contents Of the Page to help navigate to different areas of the Readme File.
      ![Navigation Bar ](./images/navigation-bar.jpg)
 
 
- - __Main Image__
+ - __The Home Page Image__
      - The main image when you view the home page for the first time is an animated picture of Federer to give you an eye catching moment of when the animation starts. 
-     - It also shows you of who the person is and what he is as he is holding a tennis racket.
- 
+     - It also blends in nicely with the background of the website with a shadow effect.
+    <img src="./images/home-page-readme-img.jpg" alt="Sign up button" width="80%" height="15%">                                     
 
+     - __Home Page Content__
+         - Inside the home page we have a brief introduction about the history of Roger Federer and give an idea of what this page is about.
+
+        - __Sign Up Button__
+
+        - Underneath the content we have a sign up button where you can enter your name and email to join the Federer community. 
+        - The colour on the button should be pleasing for the user to want to click on it as it pops more than the text above it.
+        - When you click on it a form will appear in red to match the concept of the other colours. 
+        <img src="./images/sign-up-readme-img.jpg" alt="Sign up button" width="60%" height="15%">
+
+        - __The Footer__
+        - The footer has three links that are all relevant to Roger Federer as the link to each of his social medias including Facebook, Twitter and Instagram.
+        - When hovering over each social media link it will light up to indicate that you are hovering over it with your mouse which gives a good indication where your mouse is currently at.
+        - When you click on the social media Icons it will open a new tab so you don't lose access to the website.
