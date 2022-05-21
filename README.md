@@ -148,6 +148,10 @@ This is the Website of Roger Federer.
         - This image was used for Timeline <a href="https://hkbuy1s.tk/ProductDetail.aspx?iid=107246226&pr=52.88/">Federer Ao 2017</a>
         - This image was used for Home Page <a href="https://www.pintarmewarnai.com/png/roger-federer-png-transparent-images/">Federer Transparent</a>
         - This image was used for all pages <a href="https://www.cleanpng.com/png-2003-wimbledon-championships-logo-grand-slam-tenni-1099646/">Federer logo</a>
+
+        # Acknowledgements
+        - This website is for Project Portfolio one for Code Institue and UCD Academy.
+        -  For the Full Stack Software Developer (e-Commerce) Diploma
         
          
 
