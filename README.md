@@ -81,10 +81,20 @@ This is the Website of Roger Federer.
          - In the HTML part you can see I have a warning about not having a heading in the section footer but it does not effect the code but only a warning.
          ## Responsive
          - as you can see it scales down when viewing in a different size to keep it's shape so it stays uninterrpted.
-          <img src="./images/responsive-READme-img.jpg" alt="CSS Validator">
+          <img src="./images/responsive-READme-img.jpg" alt="Timeline size change">
 
           - As we get into mobile mode inside the gallery it changes it shape by going off one image so the images are still visable to see. 
-          <img src="./images/gallery-READme-img (2).jpg" alt="CSS Validator">
+          <img src="./images/gallery-READme-img (2).jpg" alt="Gallery mobile size">
+
+          - I used Google Developer tool to test the responsiveness of the website.
+
+
+          # Unfixed Bugs
+          - The sign up button in the index page is not responsive and could not fix it to scale down when going into different screen sizes.
+
+          <img src="./images/bug-READme-img.jpg" alt="button bug" width="50%">
+
+
 
 
        
