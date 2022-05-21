@@ -78,3 +78,15 @@ This is the Website of Roger Federer.
          
          <img src="./images/css-validator-READme-img.jpg" alt="CSS Validator">
 
+         - In the HTML part you can see I have a warning about not having a heading in the section footer but it does not effect the code but only a warning.
+         ## Responsive
+         - as you can see it scales down when viewing in a different size to keep it's shape so it stays uninterrpted.
+          <img src="./images/responsive-READme-img.jpg" alt="CSS Validator">
+
+          - As we get into mobile mode inside the gallery it changes it shape by going off one image so the images are still visable to see. 
+          <img src="./images/gallery-READme-img (2).jpg" alt="CSS Validator">
+
+
+       
+        
+       
