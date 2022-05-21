@@ -100,7 +100,7 @@ This is the Website of Roger Federer.
           - In the GitHub repository, navigate to the Settings tab
           - From the source section drop-down menu, select the Master Branch
           - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-         - The live link to the Github repository can be found here: 
+         - The live link to the Github repository can be found here: https://github.com/aokealy/Roger-federer
          # To fork the repository on GitHub
         - A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
         - Log in to GitHub and locate the repository.
