@@ -159,6 +159,7 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
         - Type git clone, and then paste the URL copied from GitHub.
         - Press enter and the local clone will be created.
         <img src="./images/clone-img.jpg" alt="Clone project">
+       
         # Credits
         ## Contents
         - Website layout from <a href="https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=LL&index=7">Youtube video</a>
