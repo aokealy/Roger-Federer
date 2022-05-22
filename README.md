@@ -7,6 +7,27 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
 
 ![alt text](./images/chrome_QTwBdTkGin.jpg)
 
+# User Expierence 
+- When being a user I want to be able to navigate through the website smoothly.
+- When being a user I want to explore more of the Roger Federer site.
+- When being a user I want everyone to see the animations. 
+- When being a user I want to see how I can sign up.
+- When being a user I want to learn more about Federer.
+
+## Site Structure 
+- The structure of the Roger Federer Website has three pages overall which include a home page, timeline page and a gallery page. 
+- There are social links at the bottom of each page. 
+- Every page has the same navigation bar and logo that will bring you back in the home page. 
+
+## Typography
+- The font that were used in this website was Poppins.
+- Geometric sans serif typefaces have been a popular design tool ever since these actors took to the world’s stage. Poppins is one of the new comers to this long tradition. With support for the Devanagari and Latin writing systems, it is an internationalist take on the genre.
+## Colour Choice
+- The colours I chose were different types of ed colours including darker and lighter reds and white.
+- The reason for this is because Roger Federer is from Swizterland and his flag colours are red and white.
+<img src="./images/Colours-README-img.jpg" alt="Color palette">
+
+
 
 # Features 
 <p>Roger Federer website is designed to be user friendly and pleasing to the eye so when you first look at the website you can see where everthing is. It is very miminalistic but effective in a way that doesn't over complicate things. It has features that everyone has used before such as a navigation bar and a form to sign up.  </p>
