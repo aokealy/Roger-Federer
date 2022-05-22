@@ -113,9 +113,11 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
           <img src="./images/gallery-READme-img (2).jpg" alt="Gallery mobile size">
 
           - I used Google Developer tool to test the responsiveness of the website.
-          ## Lighthouse test
+          ## Lighthouse Test
           <img src="./images/Lighthouse-test-img.jpg" alt="Lighthouse Test">
+          
           # Browser Test
+
           ## Mozilla
           <img src="./images/firefox-browser-img.jpg" alt="Firefox Browser Test">
 
