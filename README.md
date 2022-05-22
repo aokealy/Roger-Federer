@@ -147,7 +147,8 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
          # To fork the repository on GitHub
         - A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
         - Log in to GitHub and locate the repository.
-        - On the right hand side of the page inline with the repository name is a button called 'Fork', click on the button to create a copy of the original repository in your GitHub Account.
+        - On the right hand side of the page inline with the repository name is a button called 'Fork', click on the button to   create a copy of the original repository in your GitHub Account.
+        <img src="./images/fork-img.jpg " alt="fork image">
         
         # To create a local clone of this project
         - Under the repository’s name, click on the code tab.
@@ -156,6 +157,7 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
         - Change the current working directory to the location where you want the cloned directory to be made.
         - Type git clone, and then paste the URL copied from GitHub.
         - Press enter and the local clone will be created.
+        <img src="./images/clone-img.jpg" alt="Clone project">
         # Credits
         ## Contents
         - Website layout from <a href="https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=LL&index=7">Youtube video</a>
