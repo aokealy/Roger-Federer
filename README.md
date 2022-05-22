@@ -91,10 +91,15 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
         - <a href="https://fonts.google.com/">Google Fonts for the text</a>
       
       # Testing 
+      ## Home Page
       - In this section I tested the code using <a href="https://validator.w3.org/nu/#textarea">WC3 Validator HTML</a>
-       <img src="./images/html-validator-READme-img.jpg" alt="Footer">
+       <img src="./images/html-validator-READme-img.jpg" alt="home page validator">
+      ## Timeline Page
+      <img src="./images/timeline-validator-img.jpg" alt="timeline validator">
+      
+      ## Gallery Page
+      <img src="./images/gallery-validator-img.jpg" alt="gallery validator">
      
-          
       - Also I tested the code using <a href="https://jigsaw.w3.org/css-validator/">WC3 Validator CSS</a>
          
          <img src="./images/css-validator-READme-img.jpg" alt="CSS Validator">
@@ -108,6 +113,17 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
           <img src="./images/gallery-READme-img (2).jpg" alt="Gallery mobile size">
 
           - I used Google Developer tool to test the responsiveness of the website.
+          # Browser Test
+          ## Mozilla
+          <img src="./images/firefox-browser-img.jpg" alt="Firefox Browser Test">
+
+          ## Microsoft Edge
+          <img src="./images/microsoft-browser-img.jpg" alt="Microsoft Edge Browser Test">
+          - These are the browser test and I can comfirm they work on Chrome, Firefox and Microsoft Edge.
+
+         
+
+
 
 
           # Unfixed Bugs
