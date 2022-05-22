@@ -132,6 +132,7 @@ This is the Website of <a href="https://aokealy.github.io/Roger-federer/">Roger 
 
           # Unfixed Bugs
           - The sign up button in the index page is not responsive and could not fix it to scale down when going into different screen sizes.
+          - after multiple attemps of trying to fix it I couldn't change the bug.
 
           <img src="./images/bug-READme-img.jpg" alt="button bug" width="50%">
 
